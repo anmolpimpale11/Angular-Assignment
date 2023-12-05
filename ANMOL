@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head>
+
+<link rel="Stylesheet" href="css.css">
+</head>
+<body bgcolor="#deedf4">
+       <header class="header"> 
+        <h1>
+            <center>
+                 Archer Industries
+             </center><br>
+             <nav class="navbar">
+                <a href="1.html">Home</a>
+                <a href="2.html">About Us</a>
+               <a href="3.html">Products</a>
+                <a href="4.html">Careers</a>               
+                <a href="5.html">Contact Us</a>
+             </nav>
+       </h1>
+       </header>
+
+             <div class="home">
+                <div class="home-img">
+                    <div class="home-content">
+
+                
+                        <img src="C:\Users\SUMIT BAISANE\Desktop\ANMOL\th.jpg"height="450px" width="1300px" alt="">
+                        <h1>Welcome to Archer Industries </h1>
+                        <p>Constantly strive to achieve the highest possible standards.</p>
+
+        <p>Archer Industries is managed by Mr. Rakesh Butala & Mr. Arvind Manchoji having 20 years of experience in manufacturing & sourcing 
+          industries. Archer Industries specializes in manufacture of Precision Machined Components from small to large batch size with high
+          quality and on time delivery at competitive pricing has enabled us to establish strategic relationships with our clients.</p>
+
+        <p>We have a state-of-the-art manufacturing facility with CNC Turning/ VMC Milling machines and Special Purpose Machines, 
+            experienced & trained personnel. Our investment in CAD/CAM software and CNC/VMC tool technologies, ensures that we can
+             maintain the high standards of quality and cost competitiveness and provide a low-cost solution for our customers sourcing 
+             strategy.</p>
+<h4>
+
+An ISO- 9001 Certified company.<br>
+Based in prime location at Pune with excellent connectivity.<br>
+Covered Area of about 9,000 sq ft.<br>
+Experienced Management Team & working professionals.<br>
+First generation of Entrepreneurs with a vision to make their mark.<br><br>
+
+Segments we serve high precision components to:<br>
+Automobile Industries<br>
+Hydraulic Industries<br>
+Oil and Gas<br>
+Engineering – Power transmission<br>
+</h4>
+
+    <img src="C:\Users\SUMIT BAISANE\Desktop\ANMOL\machinery.jpg">
+    </div>
+    </div>
+
+
+
+   
+</body>
+</html>
